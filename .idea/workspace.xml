@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfd047a1-3f64-4827-a0da-2d3fb510ac3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/CustomUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/config/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/service/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/service/JwtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-6/src/main/java/com/cwa/security/service/UserService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "akshays-github-coder"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/akshays-github-coder/Spring.git",
+    "accountId": "f3ca903b-6152-42fb-a288-5c605d574c1b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3E5DyX9Opnrf0hPiLwdyiMAjBN2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/akshays-workspace/Spring"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd047a1-3f64-4827-a0da-2d3fb510ac3e" name="Changes" comment="" />
+      <created>1779459791600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779459791600</updated>
+    </task>
+    <servers />
+  </component>
+</project>
