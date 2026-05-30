@@ -1,0 +1,65 @@
+openapi: 3.0.3
+
+info:
+  title: Employee API
+  version: 1.0.0
+
+paths:
+  /employees:
+    post:
+      summary: Create Employee
+
+      requestBody:
+        required: true
+
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Employee'
+
+      responses:
+        '201':
+          description: Created
+
+  /employees/{id}:
+    get:
+      summary: Get employee by id
+
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+
+      responses:
+        '200':
+          description: Employee Found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Employee'
+
+components:
+
+  schemas:
+
+    Employee:
+      type: object
+
+      properties:
+        id:
+          type: integer
+
+        name:
+          type: string
+
+        email:
+          type: string
+
+        department:
+          type: string
+
+      required:
+        - id
+        - name
