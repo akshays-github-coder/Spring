@@ -1,4 +1,4 @@
-package com.cwa.lms.loan_service;
+package com.cwa.lms.ls;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

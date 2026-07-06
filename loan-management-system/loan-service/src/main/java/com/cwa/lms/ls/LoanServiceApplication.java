@@ -1,8 +1,10 @@
-package com.cwa.lms.loan_service;
+package com.cwa.lms.ls;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 
+@EnableFeignClients
 @SpringBootApplication
 public class LoanServiceApplication {
 
