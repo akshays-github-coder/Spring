@@ -1,6 +1,6 @@
 package com.cwa.lms.ls.dto;
 
-import com.cwa.lms.ls.entity.LoanType;
+import com.cwa.lms.ls.enums.LoanType;
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.Min;
 import lombok.AllArgsConstructor;

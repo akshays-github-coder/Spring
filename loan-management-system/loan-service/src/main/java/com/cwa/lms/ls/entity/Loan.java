@@ -1,5 +1,7 @@
 package com.cwa.lms.ls.entity;
 
+import com.cwa.lms.ls.enums.LoanStatus;
+import com.cwa.lms.ls.enums.LoanType;
 import jakarta.persistence.*;
 import lombok.Data;
 

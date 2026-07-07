@@ -28,7 +28,7 @@ public class UserController {
     }
 
     @GetMapping("/users/profile/{id}")
-    @PreAuthorize("hasRole('USER')")
+//    @PreAuthorize("hasRole('USER')")
     public Optional<User> getUserProfile(@PathVariable Long id){
         return userService.getUserProfile(id);
     }

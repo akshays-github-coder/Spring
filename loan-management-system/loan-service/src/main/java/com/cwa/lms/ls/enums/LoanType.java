@@ -1,4 +1,4 @@
-package com.cwa.lms.ls.entity;
+package com.cwa.lms.ls.enums;
 
 public enum LoanType {
     PERSONAL,

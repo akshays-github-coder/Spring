@@ -5,7 +5,7 @@ import com.cwa.lms.ls.dto.LoanRequest;
 import com.cwa.lms.ls.dto.LoanResponse;
 import com.cwa.lms.ls.dto.UserResponse;
 import com.cwa.lms.ls.entity.Loan;
-import com.cwa.lms.ls.entity.LoanStatus;
+import com.cwa.lms.ls.enums.LoanStatus;
 import com.cwa.lms.ls.mapper.LoanMapper;
 import com.cwa.lms.ls.repository.LoanRepository;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package com.cwa.lms.ls.dto;
 
-import com.cwa.lms.ls.entity.LoanStatus;
+import com.cwa.lms.ls.enums.LoanStatus;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
