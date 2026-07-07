@@ -15,3 +15,12 @@ spring:
     properties:
       hibernate:
         format_sql: true
+
+file:
+  upload-dir: D:/akshays-workspace/Spring/loan-management-system/loan-service/uploads
+
+aws:
+  region: ap-south-1
+  access-key: AKIAT33RCJ65647FECPX
+  secret-key: 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
+  bucket-name: loan-management-documentss
